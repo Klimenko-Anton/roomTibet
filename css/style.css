@@ -2260,8 +2260,8 @@ h4,
 @media (min-width: 48.06125em) {
   .footer {
     padding-block-start: clamp(3.125rem, 0.2036516854rem  +  14.606741573vw, 11.25rem);
-    margin-block-start: clamp(0rem, 2.2471910112rem  +  -11.2359550562vw, -6.25rem);
-    margin-block-start: clamp(-6.25rem, 2.2471910112rem  +  -11.2359550562vw, 0rem);
+    margin-block-start: clamp(-0.625rem, 1.3974719101rem  +  -10.1123595506vw, -6.25rem);
+    margin-block-start: clamp(-6.25rem, 1.3974719101rem  +  -10.1123595506vw, -0.625rem);
   }
 
   .hero__body {
